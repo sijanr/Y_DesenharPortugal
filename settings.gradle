@@ -1,0 +1,2 @@
+rootProject.name = "Y_DesenharPortugal"
+include ':app'
